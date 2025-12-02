@@ -8,7 +8,7 @@ I am originally from Jordan but i live in Saudi Arabia and I like doing creative
 ## What i'm working on
 I am currently working on my university programming coursework, mainly involving Python and general coding principles.
 
-##What I'm Learning
+## What I'm Learning
 Python
 Cybersecurity fundamentals
 Programming logic and structure
