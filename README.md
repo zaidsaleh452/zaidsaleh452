@@ -32,4 +32,4 @@ Instagram: zaid_salehh
 ## Fun Fact
 I enjoy tuning and building cars just as much as I enjoy coding. Both require attention to detail, trial and error and a good problem solving mindset.
 
-![My Profile Screenshot]()
+![My Profile Screenshot](https://github.com/zaidsaleh452/zaidsaleh452/blob/main/profile.png)
