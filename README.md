@@ -1,6 +1,6 @@
 **Hi, I'm Zaid Saleh**
 
-**About me**
+**About me
 I am a 19 year-old Cybersecurity student at Leeds Beckett University.
 I enjoy programming because it is creative, logical and genuinely fun to work with.
 I am originally from Jordan but i live in Saudi Arabia and I like doing creative and enticing things.
