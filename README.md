@@ -22,12 +22,8 @@ Problemsolving and logical debugging
 
 ## Ask me about
 Python for beginners
-Introductory AI concepts
 Getting started with programming
 Cybersecurity from a student perspective
-
-## Looking to collaborate on
-Small projects that help me practise and build my programming skills.
 
 ## Contact detail
 Email: zaidnjsaleh@gmail.com
