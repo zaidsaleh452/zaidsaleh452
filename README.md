@@ -1,16 +1,37 @@
-## Hi there 👋
+**Hi, I'm Zaid Saleh**
 
-<!--
-**zaidsaleh452/zaidsaleh452** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+##About ie##
+I am a 19 year-old Cybersecurity student at Leeds Beckett University.
+I enjoy programming because it is creative, logical and genuinely fun to work with.
+I am originally from Jordan but i live in Saudi Arabia and I like doing creative and enticing things.
 
-Here are some ideas to get you started:
+##What i'm working on##
+I am currently working on my university programming coursework, mainly involving Python and general coding principles.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+##What I'm Learning##
+Python
+Cybersecurity fundamentals
+Programming logic and structure
+Concepts used across different programming languages
+
+##Skills##
+Python
+AI and basic data science
+General knowledge about cars
+Problemsolving and logical debugging
+
+##Ask me about##
+Python for beginners
+Introductory AI concepts
+Getting started with programming
+Cybersecurity from a student perspective
+
+##Looking to collaborate on##
+Small projects that help me practise and build my programming skills.
+
+##Contact details##
+Email: zaidnjsaleh@gmail.com
+Instagram: zaid_salehh
+
+##Fun Fact##
+I enjoy tuning and building cars just as much as I enjoy coding. Both require attention to detail, trial and error and a good problem solving mindset.
