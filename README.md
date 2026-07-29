@@ -17,7 +17,6 @@ Concepts used across different programming languages
 ## Skills
 Python
 AI and basic data science
-General knowledge about cars
 Problemsolving and logical debugging
 
 ## Ask me about
@@ -26,8 +25,7 @@ Getting started with programming
 Cybersecurity from a student perspective
 
 ## Contact detail
-Email: zaidnjsaleh@gmail.com
-Instagram: zaid_salehh
+Email: zaidnsaleh@gmail.com
 
 ## Fun Fact
 I enjoy tuning and building cars just as much as I enjoy coding. Both require attention to detail, trial and error and a good problem solving mindset.
